@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Qayyum Oladimeji]
+# Hi there! 👋 I'm Qayyum Oladimeji
 
 Welcome to my GitHub profile! I'm a passionate **Computer Programmer** with experience in **HTML, CSS, JavaScript, React.js**, and more. I enjoy working on web development projects, creating interactive user interfaces, and exploring new technologies.
 
