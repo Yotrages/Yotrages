@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Programmer** with expe
 ## 🛠️ My Skills
 
 - **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: [Node.js]
 - **Version Control**: Git, GitHub
 - **Deployment**: Netlify
 - **Other Tools**: Wordpress
