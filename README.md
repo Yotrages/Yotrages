@@ -1,32 +1,34 @@
 # Hi there! 👋 I'm Qayyum Oladimeji
 
-Welcome to my GitHub profile! I'm a passionate **Computer Programmer** with experience in **HTML, CSS, JavaScript, React, Next.js, Express**, and more. I enjoy working on web development projects, creating interactive user interfaces, and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate **Software Developer** with experience in **HTML, CSS, JavaScript, React, Next.js, TypeScript, Node.js, Express.js, React Native**, and more. I enjoy working on web development projects, creating interactive user interfaces, and exploring new technologies.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently enhancing my skills in front-end and back-end development.
 - 👯 I’m looking to collaborate on projects involving computer programming.
-- 📝 I regularly write about my learning journey and share insights on (https://www.linkedin.com/in/qayyum-oladimeji-552431300/).
-- 💬 Ask me about **web development, React.js, Express or any tech-related topic**.
+- 📝 I regularly write about my learning journey and share insights on ([https://web.facebook.com/qayyum.ogunleti.3
+](https://web.facebook.com/qayyum.ogunleti.3
+)).
+- 💬 Ask me about **Frontend, Backend, Mobile Application or any tech-related topic**.
 - ⚡ Fun fact: I love working with other programmers.
 
 ## 🛠️ My Skills
 
-- **Frontend Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript
+- **Frontend Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, React Native
 - **Backend Development**:
 Express.js, Node.js
 - **Version Control**: Git, GitHub
-- **Deployment**: Netlify, Vercel
-- **Other Tools**: Wordpress
+- **Deployment**: Netlify, Vercel, AWS, Render and more
+- **Other Tools**: Databases, DevOps
 
 ## 📂 Projects
 
 Here are some of my featured projects:
 
-### [Awesome](https://awesomestart.netlify.app/)
+### [Chathub](https://chathub-hazel.vercel.app/)
 **Description**: A Start-up business website.
 
-### [Delicacy](https://delicacyfood.netlify.app/)
+### [ExquisiteWears](https://exquisitewears.vercel.app/)
 **Description**: A food company website.
 
 Feel free to check out more of my projects (https://github.com/Yotrages).
