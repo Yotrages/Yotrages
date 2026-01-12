@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with exper
 ## 🚀 About Me
 
 - 🌱 I’m currently enhancing my skills in front-end and back-end development.
-- 👯 I’m looking to collaborate on projects involving computer programming.
+- 👯 I’m looking to collaborate on projects involving software development.
 - 📝 I regularly write about my learning journey and share insights on ([https://web.facebook.com/qayyum.ogunleti.3
 ](https://web.facebook.com/qayyum.ogunleti.3
 )).
@@ -26,10 +26,10 @@ Express.js, Node.js
 Here are some of my featured projects:
 
 ### [Chathub](https://chathub-hazel.vercel.app/)
-**Description**: A Start-up business website.
+**Description**: A Social media application with all you want.
 
 ### [ExquisiteWears](https://exquisitewears.vercel.app/)
-**Description**: A food company website.
+**Description**: An E-commerce website.
 
 Feel free to check out more of my projects (https://github.com/Yotrages).
 
