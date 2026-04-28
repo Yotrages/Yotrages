@@ -14,14 +14,14 @@ I'm a passionate software developer specializing in building modern, performant 
 
 ```javascript
 const qayyum = {
-    code: ["JavaScript", "TypeScript", "Node.js", "SQL"],
+    code: ["JavaScript", "TypeScript", "Node.js", "SQL", "NOSQL"],
     askMeAbout: ["web dev", "mobile dev", "system design", "microservices"],
     technologies: {
         frontend: ["React", "Next.js", "React Native", "Redux", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "GraphQL", "Socket.io", "Microservices"],
+        backend: ["Node.js", "Express", "REST API", "Socket.io", "Microservices"],
         databases: ["PostgreSQL", "MongoDB", "Redis"],
         devOps: ["Docker", "AWS", "Azure", "Kubernetes", "CI/CD"],
-        testing: ["Jest", "React Testing Library", "TDD"]
+        testing: ["Jest", "React Testing Library", "TDD", "PlayWright"]
     },
     currentFocus: "Building scalable systems and optimizing performance",
     funFact: "I thrive on collaborative problem-solving with fellow developers"
