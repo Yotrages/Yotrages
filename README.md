@@ -30,6 +30,16 @@ const qayyum = {
 
 ## 💼 Featured Projects
 
+### 🛒 [Tarra](https://play.google.com/store/apps/details?id=ng.tarra.app)
+**Campus Marketplace — Built for 40,000+ Students**
+
+Built a full-stack campus marketplace from scratch as sole engineer — product listings, second-hand sales, service bookings, and a payment escrow system in a single authenticated app.
+
+**Tech Stack:** React Native, Expo, TypeScript, Express.js, MongoDB, Flutterwave  
+**Highlights:** Live on Google Play · 4.5 stars · Multi-role account system · Subaccount-based escrow · EAS deployment
+
+---
+
 ### 🛍️ [ExquisiteWears](https://exquisitewears.vercel.app/)
 **Premium E-Commerce Experience**
 
