@@ -9,7 +9,6 @@
 </div>
 
 ## 🚀 Full Stack Developer | Building Scalable Digital Solutions
-
 I'm a passionate software developer specializing in building modern, performant web and mobile applications. With expertise spanning the entire development stack, I transform ideas into production-ready applications that deliver real business value.
 
 ```javascript
@@ -57,16 +56,6 @@ Created a live football tracking application delivering instant score updates, l
 
 **Tech Stack:** React, REST APIs, Real-time data integration  
 **Highlights:** Live updates, multi-league support, detailed analytics dashboard
-
----
-
-### 🌐 [ChatHub](https://chathub-hazel.vercel.app/)
-**A Full-Featured Social Media Platform**
-
-Built a comprehensive social platform featuring real-time chat, video/voice calls, stories, reels, friend requests, and group messaging with file sharing capabilities.
-
-**Tech Stack:** React, Node.js, Socket.io, MongoDB, WebRTC  
-**Highlights:** Real-time notifications, optimized media handling, scalable architecture
 
 ---
 
