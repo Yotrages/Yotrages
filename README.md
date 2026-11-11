@@ -39,6 +39,16 @@ Built a full-stack campus marketplace from scratch as sole engineer — product 
 
 ---
 
+### 🌐 [ChatHub](https://chathub-hazel.vercel.app/)
+**A Full-Featured Social Media Platform**
+
+Built a comprehensive social platform featuring real-time chat, video/voice calls, stories, reels, friend requests, and group messaging with file sharing capabilities.
+
+**Tech Stack:** React, Node.js, Socket.io, MongoDB, WebRTC  
+**Highlights:** Real-time notifications, optimized media handling, scalable architecture
+
+---
+
 ### 🛍️ [ExquisiteWears](https://exquisitewears.vercel.app/)
 **Premium E-Commerce Experience**
 
